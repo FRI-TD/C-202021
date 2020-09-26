@@ -1,6 +1,7 @@
-# C-202021
+# Repozitirij izvorne kode
 
-Repozitirij izvorne kode iz predavanj Programski jezik C
+* Predavanja pri predmetu Programski jezik C, FRI, šolsko leto 2020/21
+
 
 Prenos celotnega repozitirija:
 
