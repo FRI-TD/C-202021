@@ -1,4 +1,4 @@
-typedef struct cplx {
+typedef struct kompleksno {
   double re;
   double im;
-} abra;
+} cplx;

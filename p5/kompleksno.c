@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include "cplx.h"
 
-void izpisi(abra w) {
+void izpisi(cplx w) {
   printf("%.2f + %.2f i\n", w.re, w.im);
 }
 
 int main() {
-  abra w = {1,0};  // 1
+  cplx w = {1,0};  // 1
   struct cplx z = {0,1};  // i
 
   izpisi(w);
